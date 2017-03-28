@@ -1,7 +1,9 @@
 package gittest;
 
 /**
- * Adding a new comment that will appear also on github
+ * Adding a new comment that will appear also on github.
+ * 
+ * This comment is made on the branch leifll.
  * @author leif
  */
 public class Gittest {
